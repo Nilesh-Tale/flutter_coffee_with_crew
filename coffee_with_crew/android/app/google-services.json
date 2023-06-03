@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303567284600",
+    "project_id": "flutter-coffee-with-crew",
+    "storage_bucket": "flutter-coffee-with-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303567284600:android:bcc7166fd021da105c008d",
+        "android_client_info": {
+          "package_name": "com.nilesh.coffee_with_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryeBDDxtWnPzSzIirlQL1w5BDtnU6iNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
